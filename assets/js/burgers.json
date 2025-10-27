@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nom": "Mandarina 🍊 🌿190/73u✨ Frzsh Frozen by JbalaFarmers",
+    "description": "Du vrai Fresh Frozen avec une odeur très fruité et son arrière goût de mandarine X Cali . C’est vraiment met de luxe offert à ce prix 🍊🇺🇸",
+      "prix": [
+      {"poids": "100", "price": "750"},
+      {"poids": "50", "price": "400"},
+      {"poids": "25", "price": "230"},
+      {"poids": "10", "price": "100"},
+      {"poids": "5", "price": "60"},
+      {"poids": "2.5", "price": "30"}
+    ],
+    "categorie": "hash",
+    "Gamme": "fresh_frozen",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/marocain.jpg" },
+      { "type": "video", "src": "assets/images/maroc/video.mp4" }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Yellow Bird  Us 🇺🇸 🐤🍋",
+    "description": "Découvrez Yellow Bird 🐤🍋✨, beuh jaune directement venue des us, une très très très forte odeur de tout les fruit 🌿 en meme temps avec un goût très bon qui passe comme du lait à fumée avec une défonce chill et good vibes, le top du top pour les fumeur de weed a prix cassé ✨💨.",
+     "prix": [
+      {"poids": "10", "price": "110"},
+      {"poids": "5", "price": "60"},
+      {"poids": "2.5", "price": "40"}
+    ],
+    "categorie": "americain",
+    "Gamme": "weed",
+    "media": [
+      { "type": "image", "src": "assets/images/americain/weed/yellow.png" },
+      { "type": "video", "src": "assets/images/americain/weed/video.mp4" }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Tangerine Dream Cali us 🇺🇸 ",
+    "description": "Cali Weed , odeur forte et fruité agréable d’herbe en bouche énergisante et euphorique 💭💥 ✨.",
+     "prix": [
+      {"poids": "10", "price": "100"},
+      {"poids": "5", "price": "60"},
+      {"poids": "2.5", "price": "30"}
+    ],
+    "categorie": "Espagne",
+    "Gamme": "weed",
+    "media": [
+      { "type": "image", "src": "assets/images/espagnol/weed/tangerine.png" },
+      { "type": "video", "src": "assets/images/americain/hash/tangerine.mp4" }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Ethos Cookie R2 190/73u fresh Frozen by jbala farms",
+    "description": "Odeur très fruité, très forte , un arrière goût délicieux de cookies X Cali 🍪🇺🇸",
+       "prix": [
+      {"poids": "100", "price": "750"},
+      {"poids": "50", "price": "400"},
+      {"poids": "25", "price": "230"},
+      {"poids": "10", "price": "100"},
+      {"poids": "5", "price": "60"},
+      {"poids": "2.5", "price": "30"}
+    ],
+    "categorie": "hash",
+    "Gamme": "fresh_frozen",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/ethgos_cookie.jpeg" },
+      { "type": "video", "src": "assets/images/maroc/ethos.mp4" }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Lemon Crasher 220/90u fresh Frozen by jbala farms",
+    "description": "Odeur agréable Fraîche de citron et son super fruité super Cali vraiment un top 1 dans sa catégorie niveau qualité prix🍋🥶",
+       "prix": [
+      {"poids": "100", "price": "800"},
+      {"poids": "50", "price": "450"},
+      {"poids": "25", "price": "250"},
+      {"poids": "10", "price": "130"},
+      {"poids": "5", "price": "70"},
+      {"poids": "1", "price": "20"}
+    ],
+    "categorie": "hash",
+    "Gamme": "fresh_frozen",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/lomon_crasher.jpeg" },
+      { "type": "video", "src": "assets/images/maroc/lemon.mp4" }
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "Cherry popers Prenium Frozen by Lasource 120u",
+    "description": "Un frozen délicieux, au goût intensément fruité. Le meilleur pour son prix !",
+       "prix": [
+      {"poids": "10", "price": "90"},
+      {"poids": "5", "price": "50"},
+      {"poids": "2", "price": "20"}
+    ],
+    "categorie": "hash",
+    "Gamme": "frozen_sift",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/cherry_poppers.jpeg" }
+    ]
+  },
+  {
+    "id": 7,
+    "nom": "Mandarina 90u by The King of Hash",
+    "description": "Filtré avec une odeur  fruité et son arrière goût de mandarine très bon pour son prix 🍊",
+       "prix": [
+      {"poids": "10", "price": "70"},
+      {"poids": "5", "price": "40"},
+      {"poids": "2.5", "price": "20"}
+    ],
+    "categorie": "hash",
+    "Gamme": "x3",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/mandarina_90u.jpeg" },
+      { "type": "video", "src": "assets/images/maroc/uuu.mp4" }
+    ]
+  },
+  {
+    "id": 8,
+    "nom": "Super hash mousseux 🧽",
+    "description": "Jaune mousseux terrain 💛 , avec un goût très fort et une odeur forte en beuh",
+     "prix": [
+      {"poids": "100", "price": "300"},
+      {"poids": "50", "price": "170"},
+      {"poids": "25", "price": "100"},
+      {"poids": "10", "price": "40"},
+      {"poids": "4", "price": "20"},
+      {"poids": "1.5", "price": "10"}
+    ],
+    "categorie": "hash",
+    "Gamme": "jaune_mousseaux",
+    "media": [
+      { "type": "image", "src": "assets/images/maroc/le_jaune_basic.jpeg" },
+      { "type": "video", "src": "assets/images/maroc/le_jaune.mp4" }
+    ]
+  },
+  {
+    "id": 9,
+    "nom": "Olive super static 🫣",
+    "description": " Olivette curée à la perfection avec une très forte odeur de Cali et avec un très fort goût exotique en bouche , le caviar en sa catégorie 🍇",
+       "prix": [
+      {"poids": "5", "price": "70"},
+      {"poids": "10", "price": "130"}
+    ],
+    "categorie": "hash",
+    "Gamme": "static",
+    "media": [
+      { "type": "image", "src": "assets/images/olivette.jpeg" },
+      { "type": "video", "src": "assets/images/olivette.mp4" }
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "CaliPlates Lemon cherry skittles 🫣🇺🇸",
+    "description": " La team, on vous a ramené le caviar du caviar 🐟✨ !Connue et reconnue mondialement 🌍, cette marque offre une qualité de luxe exceptionnelle 💎.Disponible en stock limité ⏳, nous vous avons ramené la fraîcheur directement des US 🇺🇸🔥 !",
+       "prix": [
+      {"poids": "100", "price": "1 600"},
+      {"poids": "50", "price": "850"},
+      {"poids": "20", "price": "450"},
+      {"poids": "10", "price": "250"},
+      {"poids": "2", "price": "50"}
+    ],
+    "categorie": "hash",
+    "Gamme": "caliplates",
+    "media": [
+      { "type": "image", "src": "assets/images/caliplate.jpeg" },
+      { "type": "video", "src": "assets/images/caliplate.mp4" }
+    ]
+  },
+  {
+    "id": 11,
+    "nom": "🍬 CottonCandyKush 🇪🇸",
+    "description": " Très bon dry 💨 avec un goût exceptionnel 😋 et une odeur envoûtante 🌸.Et le meilleur dans tout ça ? Un prix plus qu’accessible 💰 — c’est carrément cadeau 🎁 !",
+       "prix": [
+      {"poids": "100", "price": "350"},
+      {"poids": "50", "price": "200"},
+      {"poids": "20", "price": "90"},
+      {"poids": "10", "price": "50"},
+      {"poids": "5", "price": "30"},
+      {"poids": "2.5", "price": "20"}
+    ],
+    "categorie": "hash",
+    "Gamme": "dry",
+    "media": [
+      { "type": "image", "src": "assets/images/gotam_candy.jpeg" },
+      { "type": "video", "src": "assets/images/gotam_candy.mp4" }
+    ]
+  },
+  {
+    "id": 12,
+    "nom": "La C 🫣",
+    "description": "  caviar 🐟✨ !Connue et reconnue mondialement 🌍, cette marque offre une qualité de luxe exceptionnelle 💎.Disponible en stock limité ⏳, nous vous avons ramené la fraîcheur directement des US 🇺🇸🔥 !",
+       "prix": [
+      {"poids": "100", "price": "2 800"},
+      {"poids": "50", "price": "1 500"},
+      {"poids": "25", "price": "800"},
+      {"poids": "10", "price": "350"},
+      {"poids": "2", "price": "70"},
+      {"poids": "1", "price": "40"}
+    ],
+    "categorie": "marocain",
+    "Gamme": "festifs",
+    "media": [
+      { "type": "image", "src": "assets/images/c.jpeg" }
+    ]
+  }
+]
+
