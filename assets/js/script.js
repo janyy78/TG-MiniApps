@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!b.prix || b.prix.length === 0) return false;
 
             // Si la gamme est définie par JSON (hash, weed, extract)
-            if (["dry", "static", "frozen_sift", "fresh_frozen", "jaune_mousseaux", "extract", "caliplates","rosin", "wax", "wpff", "piatella", "edibales", "weed_es", "weed_nl", "coke_ecaille", "x3"].includes(gamme.toLowerCase())) {
+            if (["dry", "static", "frozen_sift", "fresh_frozen", "jaune_mousseaux", "extract", "caliplates","rosin", "wax", "wpff", "piatella", "edibales", "weed_es", "weed_nl", "weed_us", "coke_ecaille", "x3"].includes(gamme.toLowerCase())) {
                 return b.Gamme?.toLowerCase() === gamme.toLowerCase();
             }
 
