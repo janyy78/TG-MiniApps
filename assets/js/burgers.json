@@ -27,8 +27,8 @@
       {"poids": "5", "price": "60"},
       {"poids": "2.5", "price": "40"}
     ],
-    "categorie": "americain",
-    "Gamme": "weed",
+    "categorie": "weed",
+    "Gamme": "weed_us",
     "media": [
       { "type": "image", "src": "assets/images/americain/weed/yellow.png" },
       { "type": "video", "src": "assets/images/americain/weed/video.mp4" }
@@ -43,8 +43,8 @@
       {"poids": "5", "price": "60"},
       {"poids": "2.5", "price": "30"}
     ],
-    "categorie": "Espagne",
-    "Gamme": "weed",
+    "categorie": "weed",
+    "Gamme": "weed_us",
     "media": [
       { "type": "image", "src": "assets/images/espagnol/weed/tangerine.png" },
       { "type": "video", "src": "assets/images/americain/hash/tangerine.mp4" }
