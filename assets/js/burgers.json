@@ -202,8 +202,8 @@
       {"poids": "2", "price": "70"},
       {"poids": "1", "price": "40"}
     ],
-    "categorie": "marocain",
-    "Gamme": "festifs",
+    "categorie": "festifs",
+    "Gamme": "coke_ecaille",
     "media": [
       { "type": "image", "src": "assets/images/c.jpeg" }
     ]
