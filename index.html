@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Burger Mania 🍔</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <!-- HEADER / HERO -->
+  <header class="hero">
+    <img src="assets/images/logo.jpg" alt="Logo Burger Mania" class="logo animate__animated animate__fadeInDown">
+    <h1 class="hero-title animate__animated animate__fadeInDown">Bienvenue chez COFFEESNOOP68 </h1>
+    <p class="hero-subtitle animate__animated animate__fadeInUp animate__delay-1s">
+      Produits haut de gamme, de divers régions, commandes rapides.
+      Parcours la mini-applications, faits ton choix en toute simplicité.
+      <p class="hero-subtitle animate__animated animate__fadeInUp animate__delay-1s">
+        <i>Ici, nous fesont attention a la discretion est a la sécuritée de nos echanges !</i>
+      </p>
+    </p>
+
+  </header>
+
+  <!-- FILTRES -->
+  <div class="filter">
+    <div class="filter-row">
+      <label for="categories">Catégorie :</label>
+      <select id="categories">
+        <option value="all">Toutes</option>
+        <option value="hash">Hash</option>
+        <option value="extract">Extract & co</option>
+        <option value="weed">Weed</option>
+        <option value="fesfifs">Festifs</option>
+      </select>
+    </div>
+
+    <div class="filter-row">
+      <label for="gamme">Gamme :</label>
+      <select id="gamme">
+        <option value="all">Toutes</option>
+        <option value="dry">Dry</option>
+        <option value="x3">X3</option>
+        <option value="static">Static</option>
+        <option value="frozen_sift">Frozen sift</option>
+        <option value="fresh_frozen">Fresh Frozen</option>
+        <option value="jaune_mousseaux">Jaune mousseaux</option>
+        <option value="extract">Extract</option>
+        <option value="rosin">Rosin</option>
+        <option value="wax">Wax</option>
+        <option value="wpff">Wpff</option>
+        <option value="piatella">Piatella</option>
+        <option value="caliplates">Caliplates</option>
+        <option value="edibales">Edibles</option>
+        <option value="weed_es">Weed ES</option>
+        <option value="weed_nl">Weed NL</option>
+        <option value="coke_ecaille">Coke ecaille</option>
+      </select>
+    </div>
+  </div>
+  
+  <!-- MENU BURGERS -->
+  <main id="menu" class="menu-grid">
+    <!-- Les cartes seront injectées par script.js -->
+  </main>
+  
+  <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="assets/js/telegram.js"></script>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
