@@ -62,6 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Filtre par catégorie
     if (cat !== "all") {
         filtres = filtres.filter(b => b.categorie === cat);
+        console.log(cat);
     }
 
     // Filtre par gamme
