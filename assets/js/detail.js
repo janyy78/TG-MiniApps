@@ -34,8 +34,9 @@ document.addEventListener("DOMContentLoaded", async () => {
       <p class="description">${burger.description}</p>
       <div id="kilo-prices" class="kilo-prices"></div>
       <div id="contact-buttons" class="contact-buttons">
-        <a class="telegram" href="https://t.me/Snoopyz68000">Telegram</a>
-        <a class="snapchat" href="https://www.snapchat.com/add/snoopy252872" target="_blank">Snapchat</a>
+        <a class="telegram" href="https://t.me/MrCs6868">Telegram</a>
+        <a class="snapchat" href="https://www.snapchat.com/add/lefacteur252137" target="_blank">Snapchat</a>
+        <a class="snapchat" href="https://www.snapchat.com/add/mrcs68000" target="_blank">Snapchat (Compte secours)</a>
       </div>
     `;
 
